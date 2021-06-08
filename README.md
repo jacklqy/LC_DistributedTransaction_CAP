@@ -24,7 +24,7 @@ AP重要，可用性最重要了，系统的可用性，尤其是分布式----�
 
 1、强一致性—任意时刻数据都是一致的
 
-2PC(预备-》就绪-》提交)：阻塞导致性能问题、 单点故障(事务管理器挂了)、消息丢失问题。=》DTC实现 .NET Framework 下MSDTC实现，Distributed Transaction Coordinator服务必须开启（演示的是单机---局域网需要配置）。 .NET Core不支持—Linux
+2PC(预备-》就绪-》提交)：阻塞导致性能问题、 单点故障(事务管理器挂了)、消息丢失问题。=》DTC是基于数据库层面的事务 .NET Framework 下MSDTC实现，Distributed Transaction Coordinator服务必须开启（演示的是单机---局域网需要配置）。 .NET Core不支持—Linux
 
 3PC(预备-》就绪-》预提交-》提交)：阻塞导致性能问题、 单点故障(事务管理器挂了)、消息丢失问题。只是增加了数据库自动提交。
 
