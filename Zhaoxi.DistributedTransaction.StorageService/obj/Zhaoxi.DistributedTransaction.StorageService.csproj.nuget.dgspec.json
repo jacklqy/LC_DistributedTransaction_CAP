@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.StorageService\\Zhaoxi.DistributedTransaction.StorageService.csproj": {}
+  },
+  "projects": {
+    "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+        "projectName": "Zhaoxi.DistributedTransaction.EFModel",
+        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+        "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
+        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.StorageService\\Zhaoxi.DistributedTransaction.StorageService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.StorageService\\Zhaoxi.DistributedTransaction.StorageService.csproj",
+        "projectName": "Zhaoxi.DistributedTransaction.StorageService",
+        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.StorageService\\Zhaoxi.DistributedTransaction.StorageService.csproj",
+        "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
+        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.StorageService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj": {
+                "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj"
+              },
+              "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj": {
+                "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.Dashboard": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.RabbitMQ": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj",
+        "projectName": "Zhaoxi.DistributedTransaction.Utility",
+        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj",
+        "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
+        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DotNetCore.CAP.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

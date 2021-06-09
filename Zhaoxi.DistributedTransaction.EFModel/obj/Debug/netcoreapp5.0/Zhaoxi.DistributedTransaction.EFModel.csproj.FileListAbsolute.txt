@@ -1,0 +1,8 @@
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.deps.json
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.AssemblyInfoInputs.cache
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.AssemblyInfo.cs
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.pdb
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp5.0\Zhaoxi.DistributedTransaction.EFModel.pdb
