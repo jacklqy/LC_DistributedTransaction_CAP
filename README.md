@@ -66,5 +66,6 @@ a)、基于本地消息表实现最终一致性。.net领域首选采用DotNetCo
 MQ分布式事务--本地消息表--基于消息的一致性
 
 
-## 项目搭建过程详解
+## 基于DotNetCore.CAP框架搭建分布式集群事务过程详解
+此项目NuGet相关依赖包：DotNetCore.CAP、DotNetCore.CAP.RabbitMQ、DotNetCore.CAP.SqlServer、DotNetCore.CAP.MongoDB(需要 MongoDB 4.0+ 集群)、DotNetCore.CAP.Dashboard
 
