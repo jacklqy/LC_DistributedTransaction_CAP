@@ -73,5 +73,20 @@ a)、此项目NuGet相关依赖包：DotNetCore.CAP、DotNetCore.CAP.RabbitMQ、
 
 b)、此项目分布式事务参与微服务节点：用户服务(Published)-》订单服务(Received/Published)-》仓储服务(Received/Published)-》物流服务(Received/Published)-》支付服务(Received)。基于本地消息表模式将任务扭转到下一个服务节点，从而组成一个完整的业务流程。
 
+c)、服务启动命令：
+--用户服务(Published)
+dotnet run --urls=http://*:11111
+
+--订单服务(Received/Published)
+dotnet run --urls=http://*:11112
+
+--仓储服务(Received/Published)
+dotnet run --urls=http://*:11113
+
+--物流服务(Received/Published)
+dotnet run --urls=http://*:11114
+
+--支付服务(Received)
+dotnet run --urls=http://*:11115
 
 
