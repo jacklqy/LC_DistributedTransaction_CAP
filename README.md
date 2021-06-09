@@ -1,4 +1,5 @@
 ## 建议：小规模分布式就用DTC，大规模分布式就用NetCore.CAP
+小规模分布式就用DTC强一致性模式，大规模分布式就用DotNetCore.CAP框架
 
 ## dotnetCore.CAP框架
 [CAP]是一个用来解决微服务或者分布式系统中分布式事务问题的一个开源项目解决方案，同样可以用来作为 EventBus 使用
