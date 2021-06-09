@@ -67,5 +67,11 @@ MQ分布式事务--本地消息表--基于消息的一致性
 
 
 ## 基于DotNetCore.CAP框架搭建分布式集群事务过程详解---微服务
-此项目NuGet相关依赖包：DotNetCore.CAP、DotNetCore.CAP.RabbitMQ、DotNetCore.CAP.SqlServer、DotNetCore.CAP.MongoDB(需要 MongoDB 4.0+ 集群)、DotNetCore.CAP.Dashboard
+### 项目说明：
+
+a)、此项目NuGet相关依赖包：DotNetCore.CAP、DotNetCore.CAP.RabbitMQ、DotNetCore.CAP.SqlServer、DotNetCore.CAP.MongoDB(需要 MongoDB 4.0+ 集群)、DotNetCore.CAP.Dashboard
+
+b)、此项目分布式事务参与服务：用户服务-》订单服务-》支付服务-》仓储服务-》物流服务 组成一个完成的业务流程。
+
+
 
