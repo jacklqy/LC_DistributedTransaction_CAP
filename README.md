@@ -2,7 +2,8 @@
 小规模分布式就用DTC强一致性模式，大规模分布式就用DotNetCore.CAP框架
 
 ## dotnetCore.CAP框架
-[CAP]是一个用来解决微服务或者分布式系统中分布式事务问题的一个开源项目解决方案，同样可以用来作为 EventBus 使用
+[CAP]是一个用来解决微服务或者分布式系统中分布式事务问题的一个开源项目解决方案，同样可以用来作为EventBus使用。
+
 1 github地址：https://github.com/dotnetcore/CAP
 
 2 官网地址： https://cap.dotnetcore.xyz/
