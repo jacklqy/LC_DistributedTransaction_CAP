@@ -1,5 +1,13 @@
 ## 建议：小规模分布式就用DTC，大规模分布式就用NetCore.CAP
 
+## dotnetCore.CAP框架
+[CAP]是一个用来解决微服务或者分布式系统中分布式事务问题的一个开源项目解决方案，同样可以用来作为 EventBus 使用
+1 github地址：https://github.com/dotnetcore/CAP
+
+2 官网地址： https://cap.dotnetcore.xyz/
+
+3 官网文档：https://cap.dotnetcore.xyz/userguide/zh/cap/idempotence/
+
 ## 分布式的代价：
 分布式环境下，服务器之间的通信，可能是不靠谱，这种情况无法避免分区容错，一定存在。CAP是不能同时满足的！
 
