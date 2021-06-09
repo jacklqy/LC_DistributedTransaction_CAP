@@ -7,7 +7,7 @@
 
 2 官网地址： https://cap.dotnetcore.xyz/
 
-3 官网文档：https://cap.dotnetcore.xyz/userguide/zh/cap/idempotence/
+3 官网文档：https://cap.dotnetcore.xyz/user-guide/zh/cap/idempotence/
 
 ## 分布式的代价：
 分布式环境下，服务器之间的通信，可能是不靠谱，这种情况无法避免分区容错，一定存在。CAP是不能同时满足的！
