@@ -71,7 +71,7 @@ MQ分布式事务--本地消息表--基于消息的一致性
 
 a)、此项目NuGet相关依赖包：DotNetCore.CAP、DotNetCore.CAP.RabbitMQ、DotNetCore.CAP.SqlServer、DotNetCore.CAP.MongoDB(需要 MongoDB 4.0+ 集群)、DotNetCore.CAP.Dashboard
 
-b)、此项目分布式事务参与微服务节点：用户服务-》订单服务-》支付服务-》仓储服务-》物流服务。基于本地消息表模式将任务扭转到下一个服务节点，从而组成一个完整的业务流程。
+b)、此项目分布式事务参与微服务节点：用户服务(Published)-》订单服务(Received/Published)-》支付服务(Received/Published)-》仓储服务(Received/Published)-》物流服务(Received)。基于本地消息表模式将任务扭转到下一个服务节点，从而组成一个完整的业务流程。
 
 
 
