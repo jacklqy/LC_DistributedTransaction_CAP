@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "79nE5wUx9G8Nyh7kJwqd4VfOGDWC6AS9UNdaSbs1zDFRNRAlCFnaL99o+b8uuXLxcIwQ6Zm6CsDKdv9FANFvtA==",
+  "dgSpecHash": "evA5Ll1aVQCR2rgB4E1bQ8W/1iz6dmpXvS+TPxIuMqQjB3pOXXQBN5iFDL1xerpUAdY/ahVX1OaX3yUD+TQUMQ==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj",
+  "projectFilePath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj": {}
+    "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj": {
+    "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj",
+        "projectUniqueName": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj",
         "projectName": "Zhaoxi.DistributedTransaction.DemoProject",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj",
+        "projectPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.DemoProject\\obj\\",
+        "outputPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.DemoProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

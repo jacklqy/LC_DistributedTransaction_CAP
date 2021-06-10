@@ -5505,11 +5505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj",
+      "projectUniqueName": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj",
       "projectName": "Zhaoxi.DistributedTransaction.Utility",
-      "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj",
+      "projectPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.Utility\\Zhaoxi.DistributedTransaction.Utility.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.Utility\\obj\\",
+      "outputPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

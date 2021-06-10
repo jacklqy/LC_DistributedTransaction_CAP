@@ -9161,11 +9161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.PaymentService\\Zhaoxi.DistributedTransaction.PaymentService.csproj",
+      "projectUniqueName": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.PaymentService\\Zhaoxi.DistributedTransaction.PaymentService.csproj",
       "projectName": "Zhaoxi.DistributedTransaction.PaymentService",
-      "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.PaymentService\\Zhaoxi.DistributedTransaction.PaymentService.csproj",
+      "projectPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.PaymentService\\Zhaoxi.DistributedTransaction.PaymentService.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.PaymentService\\obj\\",
+      "outputPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.PaymentService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9182,8 +9182,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj"
+            "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj": {
+              "projectPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj"
             }
           }
         }

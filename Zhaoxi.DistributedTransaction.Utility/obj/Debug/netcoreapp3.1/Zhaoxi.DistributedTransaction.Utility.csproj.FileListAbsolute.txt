@@ -24,3 +24,12 @@ D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.Distrib
 D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.csproj.CoreCompileInputs.cache
 D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.dll
 D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.pdb
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\bin\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.deps.json
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\bin\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.dll
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\bin\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.pdb
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.csprojAssemblyReference.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.AssemblyInfoInputs.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.AssemblyInfo.cs
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.csproj.CoreCompileInputs.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.dll
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.Utility\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.Utility.pdb

@@ -25,3 +25,12 @@ D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.Distrib
 D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.dll
 D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.pdb
 D:\BaiduNetdiskDownload\Zhaoxi.DistributedTransaction.DemoProject\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.csprojAssemblyReference.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.deps.json
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\bin\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.pdb
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.csprojAssemblyReference.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.AssemblyInfoInputs.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.AssemblyInfo.cs
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.csproj.CoreCompileInputs.cache
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.dll
+D:\github\LC_DistributedTransaction_CAP\Zhaoxi.DistributedTransaction.EFModel\obj\Debug\netcoreapp3.1\Zhaoxi.DistributedTransaction.EFModel.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KrCPFMWOe1jXwrm6/8f/z8x1v1/Kuh7oMBOZsyzV4H/sQ6IrzszRVG2mDkIacBvWCY/WoOXM8RvwUKq90ZZZGA==",
+  "dgSpecHash": "Hn2cctk/Bv7IkyW0DFOxwrkRsA/T3aEBUODieOtGjc6IUcwdJEVjIm1uXdVhm+luk8YrK+H9Dj+ica2Tj0HmVQ==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.UserService\\Zhaoxi.DistributedTransaction.UserService.csproj",
+  "projectFilePath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.UserService\\Zhaoxi.DistributedTransaction.UserService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\dotnetcore.cap\\3.1.0\\dotnetcore.cap.3.1.0.nupkg.sha512",

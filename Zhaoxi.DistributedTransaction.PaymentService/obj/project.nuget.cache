@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PeJlf9o2HPKZrsQWWuZjgSvpYBPdlfqw2npgI50MQufXjxwxLTxm42FyGtok4VOp+fXSRrA3HaEpQIu4GZNekg==",
+  "dgSpecHash": "0x8O6sjaEadMcwmIx0/iYAcqfyz7/9hx/3sHLACedjf/I4QozfeW6l8nzQqJMRo2zmPrQqIHbEGYZl7LEOZOTg==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.PaymentService\\Zhaoxi.DistributedTransaction.PaymentService.csproj",
+  "projectFilePath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.PaymentService\\Zhaoxi.DistributedTransaction.PaymentService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",

@@ -1,2 +1,1 @@
-首先需要下载consul.exe
-然后在cmd到consul.exe所在路径-》consul.exe agent --dev
+首先需要下载consul.exe，然后在cmd到consul.exe所在路径-》consul.exe agent --dev

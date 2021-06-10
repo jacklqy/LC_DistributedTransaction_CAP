@@ -5604,11 +5604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+      "projectUniqueName": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
       "projectName": "Zhaoxi.DistributedTransaction.EFModel",
-      "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+      "projectPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\obj\\",
+      "outputPath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.EFModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

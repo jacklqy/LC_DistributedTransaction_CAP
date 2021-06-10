@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HqubS2tWVpr6s+bwk98pKB8m1vhdru9lmwGWsxWZt5Dy3pG2VSxYynPlbpa0KnQGHwPkGttrm4PLFdXKnlkC+Q==",
+  "dgSpecHash": "euTUiV22pzEyCEqnMmZc4Jr86gPUEbOasuc2fsd+KddXu5P9TlBBpHcTyww7ExPbOhikK5gN390oTjzMLwYv0Q==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.DistributedTransaction.DemoProject\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
+  "projectFilePath": "D:\\github\\LC_DistributedTransaction_CAP\\Zhaoxi.DistributedTransaction.EFModel\\Zhaoxi.DistributedTransaction.EFModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

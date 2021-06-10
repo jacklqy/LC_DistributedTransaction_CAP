@@ -56,7 +56,7 @@ namespace Zhaoxi.DistributedTransaction.PaymentService.Controllers
                 {
                     Name = "Eleven" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss fff"),
                     CompanyId = 1,
-                    CompanyName = "朝夕教育",
+                    CompanyName = "XXXXXX",
                     CreateTime = DateTime.Now,
                     CreatorId = 1,
                     LastLoginTime = DateTime.Now,
@@ -65,8 +65,8 @@ namespace Zhaoxi.DistributedTransaction.PaymentService.Controllers
                     Password = "123456",
                     State = 1,
                     Account = "Administrator",
-                    Email = "57265177@qq.com",
-                    Mobile = "18664876677",
+                    Email = "529987528@qq.com",
+                    Mobile = "15158745628",
                     UserType = 1
                 };
 
