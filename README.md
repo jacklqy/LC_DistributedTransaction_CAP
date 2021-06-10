@@ -75,6 +75,9 @@ b)、此项目分布式事务参与微服务节点：用户服务(Published)-》
 
 c)、服务启动命令：
 
+--consul.exe启动
+首先cmd到consul.exe所在路径-》consul.exe agent --dev
+
 --用户服务(Published)
 dotnet run --urls=http://*:11111
 
@@ -90,5 +93,6 @@ dotnet run --urls=http://*:11114
 --支付服务(Received)
 dotnet run --urls=http://*:11115
 ![image](https://user-images.githubusercontent.com/26539681/121446712-b6a66d80-c9c6-11eb-986d-e9b14c3ac5d4.png)
+![image](https://user-images.githubusercontent.com/26539681/121460585-bff00400-c9df-11eb-81bb-01338f71e0d7.png)
 
 
