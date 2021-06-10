@@ -93,6 +93,9 @@ dotnet run --urls=http://*:11114
 --支付服务(Received)
 dotnet run --urls=http://*:11115
 ![image](https://user-images.githubusercontent.com/26539681/121446712-b6a66d80-c9c6-11eb-986d-e9b14c3ac5d4.png)
-![image](https://user-images.githubusercontent.com/26539681/121460585-bff00400-c9df-11eb-81bb-01338f71e0d7.png)
+![image](https://user-images.githubusercontent.com/26539681/121460791-270db880-c9e0-11eb-863a-09a8f422e7c4.png)
+![image](https://user-images.githubusercontent.com/26539681/121460939-7227cb80-c9e0-11eb-9db8-d05b46c56b39.png)
+![image](https://user-images.githubusercontent.com/26539681/121460991-8966b900-c9e0-11eb-9a56-4b59653c0804.png)
+
 
 
