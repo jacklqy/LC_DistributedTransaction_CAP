@@ -100,5 +100,5 @@ dotnet run --urls=http://*:11115
 ![image](https://user-images.githubusercontent.com/26539681/121462353-0f83ff00-c9e3-11eb-86d3-8fe203fb30e1.png)
 ![image](https://user-images.githubusercontent.com/26539681/121462501-44905180-c9e3-11eb-89bd-9d2a39b684a0.png)
 
-
+希望为.net开源社区尽绵薄之力，探lu者###一直在探索前进的路上###（QQ:529987528）
 
